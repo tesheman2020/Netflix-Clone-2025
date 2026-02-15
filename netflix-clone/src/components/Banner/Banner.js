@@ -1,5 +1,5 @@
 import React from "react";
-import "./banner.css";
+import "./Banner.css";
 import instance from "../../utlis/axios";
 import requests from "../../utlis/requests";
 import { useEffect, useState } from "react";
